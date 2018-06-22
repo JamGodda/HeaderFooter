@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  CIA.cpp
+  Functions.cpp
+c:\users\jamgodda\desktop\waynesworld\myworld\myworld\functions.cpp(86): warning C4101: 'Search': unreferenced local variable
+  Generating Code...
+  MyWorld.vcxproj -> C:\Users\JamGodda\Desktop\WaynesWorld\MyWorld\Debug\MyWorld.exe
